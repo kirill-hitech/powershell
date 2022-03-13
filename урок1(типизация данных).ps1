@@ -13,7 +13,7 @@
 for ($i = 1; $i -lt 99; $i++)
 { 
 
-write-host $i$i$i
+write-host $i
 
  }
 #endregion
